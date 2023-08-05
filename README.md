@@ -1,6 +1,5 @@
 # Mining Risk Classifier using XGBoost
 
-![Mining Excavator](images/mining_excavator.jpg)
 
 The Mining Risk Classifier project employs machine learning techniques, specifically the XGBoost classifier, to predict and classify mining-related risks. The project aims to enhance safety measures and operational efficiency within mining operations. The dataset provided by Aurum Mining Corporation, containing 49 columns and 36,000 rows of features like location, occupation, and degree of injury, serves as the foundation for this predictive risk assessment system.
 
