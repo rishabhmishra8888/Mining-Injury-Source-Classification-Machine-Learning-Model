@@ -43,11 +43,6 @@ Follow these steps to get started with the Mining Risk Classifier project:
 
 - [Rishabh Mishra](https://github.com/rishabhmishra8888)
 
-
-## License
-
-This project is licensed under [License Name]. See the [LICENSE](link-to-license) file for details.
-
 ## Get Involved
 
 Contributions, bug reports, and feature requests are welcome! Feel free to fork this repository, make changes, and submit pull requests.
